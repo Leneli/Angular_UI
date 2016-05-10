@@ -1,4 +1,4 @@
-dateApp.controller('dateCtrl', function ($scope) {
+myApp.controller('dateCtrl', function ($scope) {
 
     //Создается новая дата
     $scope.today = function () {

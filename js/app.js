@@ -1,1 +1,1 @@
-var dateApp = angular.module('dateApp', ['ui.bootstrap']);
+var myApp = angular.module('myApp', ['ui.bootstrap']);

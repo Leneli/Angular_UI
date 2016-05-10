@@ -4,6 +4,6 @@ https://angular-ui.github.io/bootstrap/
 2) Datepicker  +
 3) Pager       +
 4) Pagination  +
-5) Progressbar
-6) Raiting
+5) Progressbar +
+6) Raiting     +
 7) Timepicker

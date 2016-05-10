@@ -31,10 +31,7 @@ myApp.controller('progressCtrl', function ($scope) {
 	//"составная" шкала
 	$scope.barStacked = function () {
 		$scope.stacked = [];
-		var types = ['success', 'info', 'warning', 'danger'],
-			n = stack.length;
-
-		console.log(n);
+		var types = ['success', 'info', 'warning', 'danger'];
 
 		for (var i = 0; i < stack.length; i++) {
 			$scope.stacked.push({
